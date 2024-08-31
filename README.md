@@ -1,6 +1,6 @@
 My name is Nadia.
-My goal is to learn as much as I possibly can! At the moment I'm learning react :))
-I'm also interested in doing something in C++ or C# in the near future. 
+My goal is to learn as much as I possibly can! At the moment I'm learning ReactJS. At the moment I try to work on my own projects to still grow as a programmer as a student. Once I master the front-end, I'm going to learn back-end to become fullstack developer in the future :))
+
 
 Sad fun fact!
 Sharks can't code :(( (and play resident evil)
