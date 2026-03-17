@@ -1,5 +1,5 @@
 My name is Nadia.
-My goal is to learn as much as I possibly can! I am a ReactJS developer. At the moment I try to work on my own projects to still grow as a programmer. Once I master the front-end, I'm going to learn back-end to become fullstack developer in the future :))
+My goal is to learn as much as I possibly can! I am a frontend developer. At the moment I try to work on my own projects to still grow my programming skills. 
 
 
 Sad fun fact!
