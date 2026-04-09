@@ -40,12 +40,29 @@ My goal is to learn as much as I possibly can! I am a frontend developer. At the
 
 ---
 
+## Stats
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=robuspospolitus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=robuspospolitus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=robuspospolitus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 <div align=center>
 <b>Sad fun fact!</b> <br/>
 Sharks can't code :(( (and play resident evil)
 </div>
-
-<!---
-robuspospolitus/robuspospolitus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
